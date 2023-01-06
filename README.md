@@ -3,4 +3,4 @@ A package-like tool that analyzes protein sequences, categorizes a protein of in
 
 Made by Ahmed Hesham Saadawy, Lydia Reda Sidarous, Mostafa Saad Ibrahim
 
-Fall 2023
+Fall 2022
